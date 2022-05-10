@@ -24,7 +24,6 @@ End of program.
 
 
 ## ROUTE MAP
-#### Include your own map
 #### Example map
 ![maps](https://user-images.githubusercontent.com/75235167/167608410-ee0f5417-1118-4b21-b0f7-d6ee981d48ff.jpeg)
 
