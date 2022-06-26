@@ -1,4 +1,7 @@
-# Dijkstra's Shortest Path Algorithm
+### EX NO: 03
+### DATE:
+# <p align="center"> Dijkstra's Shortest Path Algorithm</p>
+
 ## AIM
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
 
@@ -29,6 +32,9 @@ End of program.
 
 ## PROGRAM
 ```python3
+Developed by   : N Sandhya Charu
+Register Number :  212220230041
+
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
